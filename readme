@@ -1,0 +1,26 @@
+## How to Play
+1. **Start the Game**: Run the program, and the game will display a welcome message along with the board map for reference.
+2. **First Player**: The game will ask if you want to play first. Type "yes" or "no".
+3. **Make a Move**:
+   - If it's your turn, you will be prompted to enter the position where you want to place your mark 'X'
+
+
+
+##thought process:
+
+Analyze problem. Use 2D array to tackle the problem.
+
+Create variables and start working on the methods
+
+1. check if player wants to go first
+2. print board
+3. check if move is valid
+4. place move
+5. Player turn
+6. computer turn
+7. check for win/draw
+8. check if player wants to play again
+
+Run the code and test for bugs
+
+##Time spent: 2 hours and 10 minutes
